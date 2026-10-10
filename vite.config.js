@@ -3,6 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/erp-pos-frontend/', // GitHub repository name
   base: './',
 });
